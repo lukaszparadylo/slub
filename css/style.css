@@ -1,8 +1,14 @@
-body {
-  background-image: url("../images/ania_lukasz_narzeczenska_39.jpg");
-  background-position: center center;
-  background-size: cover;
-  background-attachment: fixed;
+img {
+  width: 100%;
 }
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGdFQUFBO0VBQ0Esa0NBQUE7RUFDQSxzQkFBQTtFQUNBLDRCQUFBO0FDQ0oiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
+p {
+  text-shadow: 5px 5px 50px rgba(0, 0, 0, 0);
+}
+
+ul {
+  text-decoration: none;
+  text-shadow: 5px 5px 50px rgba(0, 0, 0, 0);
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQTtFQUVJLFdBQUE7QUNESjs7QURHQTtFQUVJLDBDQUFBO0FDREo7O0FER0E7RUFDSSxxQkFBQTtFQUNBLDBDQUFBO0FDQUoiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
